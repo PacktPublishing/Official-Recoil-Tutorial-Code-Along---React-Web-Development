@@ -1,0 +1,4 @@
+Quick Note
+This section is optional for beginners of React or those who need some key refreshers and clarifiations including hooks, components, props, and state management in React.
+
+These are all super key for moving forward with Recoil as they compliment each other and Recoil is essentially built as a tool to manage and scale more complex React Apps.

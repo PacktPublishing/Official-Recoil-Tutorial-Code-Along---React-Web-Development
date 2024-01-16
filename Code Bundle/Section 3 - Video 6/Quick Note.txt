@@ -1,0 +1,7 @@
+Styling Code For Video 3.6 - Styling A Recoil App with CSS
+
+Since this course is primarily designed to learn Recoil we will not write each line of styling together as that could prove redundant and time inefficient.
+
+Instead, we will cover the key CSS core concepts for styling with Recoil including mapping out components and styling containers and use this imported library as our resource to pool from.
+
+Happy coding!
